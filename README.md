@@ -12,4 +12,4 @@ Meanwhile, if a player's turn rolled the dice and show number 1, player's score 
 
 Enjoy and have fun playing the game with an opponent, friend or your partner.
 
-Visit the demo link @: 
+Visit the demo link @: https://jerald-devofficial.github.io/Dice-Pig-Game/.
